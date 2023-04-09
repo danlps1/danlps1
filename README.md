@@ -1,4 +1,4 @@
-<h1 align="center"> Ola, eu sou o <a href="https://github.com/danlps1/">Daniel Lopes</a> 👾</h1>
+<h1 align="center"> Ola, eu sou o Daniel Lopes</a> 👾</h1>
 <br>
 
 <p align="center"><b>Estudante de Sistemas de Informação 💻🚀 </b></p>
@@ -16,7 +16,7 @@
  
 <div align="center"> 
  
-   <a  href="mailto:danieloliv.contato@gmail.com"><img src="https://img.shields.io/badge/email de contato-blue?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a  href="mailto:danieloliv.contato@gmail.com"><img src="https://img.shields.io/badge/email de contato-333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
 
