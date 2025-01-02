@@ -65,7 +65,7 @@ Sou estudante de Sistemas de Informação, atualmente no 5º período, na Pontif
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlps1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
