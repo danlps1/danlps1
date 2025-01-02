@@ -1,34 +1,72 @@
-<h1 align="center"> Ola, eu sou o Daniel Lopes</a> 👾</h1>
-<br>
+# 👨‍💻 Daniel Lopes
 
-<p align="center"><b>Estudante de Sistemas de Informação 💻🚀 </b></p>
+**`Estudante`**
 
-<div align="center"style="display: inline_block"><br>
-  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-</div>
- <br><br>
+Sou estudante de Sistemas de Informação, atualmente no 5º período, na Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Tenho grande interesse pela área de tecnologia e busco aplicar os conhecimentos adquiridos ao longo da minha formação, buscando desafios que me permitam crescer profissionalmente e contribuir para o aprendizado contínuo.
 
- 
-<div align="center"> 
- 
-   <a  href="mailto:danieloliv.contato@gmail.com"><img src="https://img.shields.io/badge/email de contato-333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div> 
+  <a href="https://br.linkedin.com/in/danlopess" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "danieloliv.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
 
+---
 
+### 💻 Linguagens e Tecnologias
 
-<div align="center
-            ">
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C#" 
+    title="CSharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-<div align="center">
-  <p>"Buscando sempre melhorar"</p>
-  <p>🧩🖱</a></p>
-</div>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlps1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
