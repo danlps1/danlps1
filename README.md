@@ -5,12 +5,15 @@
 Sou estudante de Sistemas de Informação, atualmente no 5º período, na Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Tenho grande interesse pela área de tecnologia e busco aplicar os conhecimentos adquiridos ao longo da minha formação, enfrentando desafios que me permitam crescer profissionalmente e contribuir para o aprendizado contínuo.
 
 <div> 
-  <a href="https://br.linkedin.com/in/danlopess" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "danieloliv.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
+   <a href="mailto:danieloliv.contato@gmail.com">
+    <img align="left" alt="email | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+  </a>
+    <a href="https://in.linkedin.com/in/danlopess">
+    <img align="left" alt="email | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a>
+</div> <br>
 
----
+<hr>
 
 ### 💻 Linguagens e Tecnologias
 
@@ -40,27 +43,19 @@ Sou estudante de Sistemas de Informação, atualmente no 5º período, na Pontif
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="ReactJs" 
+    title="ReactJs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
-    alt="jQuery" 
-    title="jQuery"
+    alt="NodeJs" 
+    title="NodeJs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
