@@ -43,6 +43,14 @@ Sou estudante de Sistemas de Informação, atualmente no 5º período, na Pontif
 />
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" 
+/>
+<img 
+    align="left" 
     alt="ReactJs" 
     title="ReactJs"
     width="30px" 
@@ -64,14 +72,6 @@ Sou estudante de Sistemas de Informação, atualmente no 5º período, na Pontif
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
 <br/>
