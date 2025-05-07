@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-Sou estudante de Sistemas de Informação, atualmente no 5º período, na Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Tenho grande interesse pela área de tecnologia e busco aplicar os conhecimentos adquiridos ao longo da minha formação, enfrentando desafios que me permitam crescer profissionalmente e contribuir para o aprendizado contínuo.
+Sou estudante de Sistemas de Informação, atualmente no 5º período. Tenho grande interesse pela área de tecnologia e busco aplicar os conhecimentos adquiridos ao longo da minha formação, enfrentando desafios que me permitam crescer profissionalmente e contribuir para o aprendizado contínuo.
 
 <div> 
    <a href="mailto:danieloliv.contato@gmail.com">
