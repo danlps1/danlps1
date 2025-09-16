@@ -5,6 +5,6 @@ I'm always looking to learn new technologies and improve my skills as a develope
 
 ### Languages and Technologies
 
-![Skills](https://skillicons.dev/icons?i=docker,git,cs,dotnet,js,ts,vue,nodejs,nestjs)
+![Skills](https://skillicons.dev/icons?i=docker,git,dotnet,ts,nodejs,nestjs,react,vue)
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=danlps1&layout=compact&theme=github_dark&)
